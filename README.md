@@ -16,9 +16,9 @@ PoW-Blockchain/
 │   └── Blockchain.h         # Blockchain class declaration
 ├── Utils/
 │   ├── sha256.cpp           # SHA-256 hash function logic
-    └── sha256.h             # SHA-256 hash function (OpenSSL)
-    └── TransactionUtils.cpp # Implementation for Transaction
-    └── TransactionUtils.h   # Transaction declaration
+│   └── sha256.h             # SHA-256 hash function (OpenSSL)
+│   └── TransactionUtils.cpp # Implementation for Transaction
+│   └── TransactionUtils.h   # Transaction declaration
 ├── CMakeLists.txt           # Build configuration
 └── main.cpp                 # CLI entry point
 ```
